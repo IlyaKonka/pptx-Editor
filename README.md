@@ -50,7 +50,9 @@ Press **Start** and check the log of console. You can see there which presentati
 
 ## Additional
 
-It's a maven project. To build it with java 8 uncomment this lines:
+* There are two example presentations in the *pptx_examples* folder.
+
+* It's a maven project. To build it with java 8 uncomment this lines:
 
 ```
 <source>1.8</source>
